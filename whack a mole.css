@@ -1,0 +1,33 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+body{
+	background-image: linear-gradient(#20e2d7,#f9fea5 );
+}
+h2{
+text-align:  center;
+font-family: "Sofia", sans-serif;
+cursor: pointer;
+}
+.grid {
+	 display: flex;
+	 flex-wrap: wrap; 
+	 text-align: center;
+	 margin-left: 29%;
+	 margin-right: 20%;
+	
+}
+
+.square {
+	height: 100px;
+	width: 100px;
+	background-image: linear-gradient(#EEF3D2,#FC8884 );
+	border: solid brown 2px;
+}
+
+.mole {
+	background-image: url("mole.jpg");
+	background-size: cover;
+}

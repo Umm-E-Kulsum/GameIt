@@ -1,0 +1,22 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+  }
+  body{
+      background-image: linear-gradient(#20e2d7,#f9fea5 );
+  }
+  h2{
+    text-align:  center;
+    font-family: "Sofia", sans-serif;
+    cursor: pointer;
+    }
+    .grid {
+      display: flex;
+      flex-wrap: wrap; 
+      text-align: center;
+      margin-left: 32%;
+      margin-right: 20%;
+     
+   }
